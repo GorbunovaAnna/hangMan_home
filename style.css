@@ -18,6 +18,7 @@ body{
 .img {
     display: block;
     width: 400px;
+    height: 400px;
     margin: 0 auto;
     margin-bottom: 20px;
 }
@@ -32,7 +33,7 @@ body{
     align-items: center;
 }
 
-form {
+.form {
     width: 100%;
     display: flex;
     justify-content: center;
